@@ -5,9 +5,9 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Mark's Github](https://github.com/mckittrickmark) for the [Lighthouse Labs](lighthouselabs.ca) Web Development Bootcamp.
+This repository contains all of the notes taken by [AJ's Github](https://github.com/AnaelBerrouet) for the [Lighthouse Labs](lighthouselabs.ca) Web Development Bootcamp.
 
-Partner - [AJ's Github](https://github.com/AnaelBerrouet)
+Partner - [Mark's Github](https://github.com/mckittrickmark)
 
 ## Table of Contents
 
