@@ -9,3 +9,8 @@ This repository contains all of the notes taken by [Mark's Github](https://githu
 
 Partner - [AJ's Github](https://github.com/AnaelBerrouet)
 
+## Table of Contents
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+
